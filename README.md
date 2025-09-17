@@ -4,7 +4,8 @@
 
 
 # 🌱 Meus Projetos
-- 📎 <a href="https://github.com/NinjaDevs-API/NinjaDevs">API do 1° Semestre de ADS</a> `CONCLUÍDO`
+- 📎 <a href="https://github.com/Galaticos-API/API-1">API do 1° Semestre de ADS</a> `CONCLUÍDO`
+- 📎 <a href="https://github.com/Galaticos-API/API-2">API do 2° Semestre de ADS</a> `EM PROGRESSO`
 
 
 # 🤖 Linguagens e Frameworks
